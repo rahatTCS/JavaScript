@@ -1,0 +1,46 @@
+
+JavaScript:
+
+Web Development:
+
+	Content: HTML decides what content has to be displayed over page.
+	Presentation: CSS decides how tthe content should appear.
+	BootStarp responding CSS. (Designed template)
+	Action: JavaScript decides how to perform on certain actions such as button click,
+	keys pressed over mouse, working with timeouts etc.
+	
+	JavaScript:
+	
+		- A loosely-typed scripting language.
+		
+		ex: int num=100;
+		num=200;
+		num="200" // Error
+		
+		var num = 100;
+		num = 300;
+		num = "Hello";// Allowed in JS
+		
+		
+		1.JS can be embeded in <script> in HTML
+		
+		if <script> on head section it will take time to load
+		<script> should be on body section for fast performance.
+		
+		2.Add external script file.
+		
+		Popup Messages in JS:
+		
+			1.Alert popup.
+			2.Confirm Box.
+			3.Prompt Box.
+			
+		Node.JS(JS server side framework): 
+		
+			-gives a runtime environment to JS.
+			
+		
+		
+		Ctrl+Shift
+		
+		
